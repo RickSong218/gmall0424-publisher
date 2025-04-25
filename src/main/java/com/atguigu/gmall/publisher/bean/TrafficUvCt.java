@@ -3,10 +3,6 @@ package com.atguigu.gmall.publisher.bean;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-/**
- * @author Felix
- * @date 2024/12/12
- */
 @Data
 @AllArgsConstructor
 public class TrafficUvCt {

@@ -13,10 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Felix
- * @date 2024/12/12
- * 流量域统计controller
+/*
+ 流量域统计controller
  */
 @RestController
 public class TrafficStatsController {
